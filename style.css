@@ -1,4 +1,21 @@
 .round-image{
-    border-radius: 50%;
+    border-radius: 45%;
     width:250px;
+}
+
+
+body{
+    margin:0px;
+    background-color: black;
+    color:#32fc05;
+    font-family: "VT323"; 
+    font-size: 30px;
+}
+
+*{
+    padding: 20px;
+}
+
+li{
+    text-decoration: none;
 }
