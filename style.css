@@ -1,5 +1,5 @@
 .round-image{
-    border-radius: 45%;
+    border-radius: 35%;
     width:250px;
 }
 
@@ -13,9 +13,10 @@ body{
 }
 
 *{
-    padding: 20px;
+    padding: 25px;
 }
 
-li{
+a{
     text-decoration: none;
+    color: white;
 }
